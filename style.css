@@ -319,3 +319,34 @@ header {
 	object-fit: cover;
 	width: 100%;
 }
+
+.fab.fa-html5{
+	background-color: white;
+	color: orangered;
+}
+
+.fab.fa-css3-alt{
+	background-color: white;
+	color: orangered;
+}
+
+.fas.fa-pencil-alt{
+	background-color: white;
+	color: rgb(40, 194, 40);
+}
+
+.fab.fa-js{
+	background-color: white;
+	color: rgb(255, 230, 0);
+}
+
+.fab.fa-bootstrap{
+	background-color: white;
+	color: rgb(77, 1, 255);
+}
+
+.fab.fa-github{
+	background-color: white;
+	color: black;
+}
+
